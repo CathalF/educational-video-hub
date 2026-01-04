@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_FUNCTIONAPP_NAME: 'func-educationalvideohub-hbhrbfc3bhh8gyg0'
+  AZURE_FUNCTIONAPP_NAME: 'func-educationalvideohub'
   AZURE_FUNCTIONAPP_PACKAGE_PATH: '.'
   NODE_VERSION: '20.x'
 
