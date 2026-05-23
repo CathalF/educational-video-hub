@@ -1,13 +1,5 @@
 # Educational Video Hub
 
-## COM682 Cloud Native Development - CW2
-**Student:** Cathal Flanagan (B00885008)  
-**Ulster University** - 2024/25
-
----
-
-## Overview
-
 A cloud-native video platform built on Microsoft Azure that enables educators to upload, manage, and stream educational videos.
 
 ## Architecture
