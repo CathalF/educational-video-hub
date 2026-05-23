@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "COSMOS_CONNECTION_STRING": "AccountEndpoint=https://your-cosmos-account.documents.azure.com:443/;AccountKey=your_cosmos_key_here;",
+    "COSMOS_DATABASE_NAME": "VideoHubDB",
+    "COSMOS_CONTAINER_NAME": "videos",
+    "STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=your_storage_account;AccountKey=your_storage_key;EndpointSuffix=core.windows.net"
+  }
+}
